@@ -427,14 +427,22 @@ section .container {
   margin-bottom: 0;
 }
 
-#about h8 span {
+#ab-content p {
+  font-size: smaller;
+}
+
+#ab-content p span {
   color: #fff;
   border-bottom: 2px solid #18d26e;
   padding-bottom: 6px;
 }
 
-#about h8 a {
+#ab-content p a {
   color: #18d26e;
+}
+
+#bio{
+  text-indent: 50px;
 }
 
 /*--------------------------------------------------------------
