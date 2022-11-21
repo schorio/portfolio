@@ -153,6 +153,15 @@ h6 {
 #header.header-top h1 span {
   color: #15bb62;
 }
+#header h2 a {
+  color: #15bb62;
+}
+
+.container #nom {
+  color: #15bb62;
+  font-size: 45px;
+}
+
 
 #header.header-top .social-links,
 #header.header-top h2 {
