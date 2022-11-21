@@ -441,6 +441,10 @@ section .container {
   color: #18d26e;
 }
 
+#bio-details a{
+  color: #18d26e;
+}
+
 #bio{
   text-indent: 50px;
 }
