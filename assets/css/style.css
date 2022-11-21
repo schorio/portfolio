@@ -427,6 +427,16 @@ section .container {
   margin-bottom: 0;
 }
 
+#about h8 span {
+  color: #fff;
+  border-bottom: 2px solid #18d26e;
+  padding-bottom: 6px;
+}
+
+#about h8 a {
+  color: #18d26e;
+}
+
 /*--------------------------------------------------------------
 # Counts
 --------------------------------------------------------------*/
