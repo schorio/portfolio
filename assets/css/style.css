@@ -523,6 +523,15 @@ section .container {
   color: #fff;
 }
 
+.skills .progress h5 {
+  font-size: 16px;
+  background: rgba(255, 255, 255, 0.15);
+  padding: 5px 15px;
+  display: inline-block;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
 .skills .skills-content h4 {
   line-height: 50px;
   font-size: 23px;
@@ -533,10 +542,11 @@ section .container {
   margin-bottom: 10px;
 }
 
-.skills .progress i {
-  font-size: 22px;
+.skills .progress a {
+  font-size: 30px;
   padding-right: 10px;
   line-height: 0;
+  color: #18d26e;
 }
 
 .interests .icon-box h3 {
