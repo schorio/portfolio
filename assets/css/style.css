@@ -508,37 +508,48 @@ section .container {
 # Skills
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 60px;
+  height: 33px;
   display: block;
   background: none;
   border-radius: 0;
 }
 
 .skills .progress .skill {
-  padding: 10px 0;
+  font-weight: 700;
   margin: 0;
-  text-transform: uppercase;
-  display: block;
-  font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  padding: 0;
+  line-height: 1;
+  font-size: 16px;
   color: #fff;
 }
 
-.skills .progress .skill .val {
-  float: right;
-  font-style: normal;
+.skills .skills-content h4 {
+  line-height: 50px;
+  font-size: 23px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  color: #18d26e;
+  margin-bottom: 10px;
 }
 
-.skills .progress-bar-wrap {
-  background: rgba(255, 255, 255, 0.2);
+.skills .progress i {
+  font-size: 22px;
+  padding-right: 10px;
+  line-height: 0;
 }
 
-.skills .progress-bar {
-  width: 1px;
-  height: 10px;
-  transition: 0.9s;
-  background-color: #18d26e;
+.interests .icon-box h3 {
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-size: 16px;
+  color: #fff;
 }
+
+
+
 
 /*--------------------------------------------------------------
 # Interests
