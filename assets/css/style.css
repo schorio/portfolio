@@ -545,7 +545,6 @@ section .container {
 .skills .progress a {
   font-size: 30px;
   padding-right: 10px;
-  line-height: 0;
   color: #18d26e;
 }
 
